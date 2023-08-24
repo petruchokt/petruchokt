@@ -23,11 +23,10 @@ Here are some ideas to get you started:
 * 😌 I`m communicative, self-organized and result-oriented person, who is able to study quickly, be punctual, responsible and attentive to details
 * 📙 My hobbies are playing piano, reading, learning new skills.
 
-### Check out my [CV] (здесь будет ссылка)
+## Check out my [CV] (здесь будет ссылка)
 
----
 
-### 🛠 Some tools I use
+## 🛠 Some tools I use
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
@@ -46,9 +45,8 @@ Here are some ideas to get you started:
 
 </div>
 
----
 
-### 🤝🏻 &nbsp;Let's get in touch!
+## 🤝🏻 &nbsp;Let's get in touch!
 
 <p align="center">
 <a href="https://t.me/petruchokt"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>
