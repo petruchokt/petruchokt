@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 💬 About Me
+## About Me
 
 * 😌 Finished functional software testing course
 * 🐈‍⬛ Most of my study cases are available on Github
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ## Check out my [CV] (здесь будет ссылка)
 
 
-## 🛠 Some tools I use
+## Some tools I use
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
@@ -44,6 +44,17 @@ Here are some ideas to get you started:
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>
 
 </div>
+
+## &nbsp;Test artifacts
+
+- [Checklists](https://github.com/petruchokt/checklists.git)
+- [Test-Cases](https://github.com/petruchokt/testCases.git)
+- [Bug Reports](https://github.com/petruchokt/bugReports.git)
+- [SQL](https://github.com/petruchokt/SQL.git)
+- [Postman Collections](https://github.com/petruchokt/apiTesting.git)
+- [Test plans/ Test Reports](https://github.com/petruchokt/plansAndReports.git)
+- [Bash](https://github.com/petruchokt/bash.git)
+- [Git](https://github.com/petruchokt/petruchokt.git)
 
 
 ## 🤝🏻 &nbsp;Let's get in touch!
