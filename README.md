@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 * 😌 I`m communicative, self-organized and result-oriented person, who is able to study quickly, be punctual, responsible and attentive to details
 * 📙 My hobbies are playing piano, reading, learning new skills.
 
-## Check out my [CV] (здесь будет ссылка)
+## Check out my <a href="https://drive.google.com/file/d/1tsY_WXhJqavjEuvfK8WiwR__-lilolxx/view?usp=sharing">cv</a></li>
 
 
 ## Some tools I use
