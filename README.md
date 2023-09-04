@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 ## About Me
 
 * 😌 Finished functional software testing course
-* 🐈‍⬛ Most of my study cases are available on Github
-* 😌 I`m communicative, self-organized and result-oriented person, who is able to study quickly, be punctual, responsible and attentive to details
-* 📙 My hobbies are playing piano, reading, learning new skills.
+* 🌱 Most of my study cases are available on Github
+* 💬 I`m communicative, self-organized and result-oriented person, who is able to study quickly, be punctual, responsible and attentive to details
+* 📙 Hobbies: playing the piano, learning to play the drums, acrobatic fitness, podcasts.
 
 ## Check out my <a href="https://drive.google.com/file/d/1uKk7mTwZ8WQ_dvhrNXx8mfRN2I_fohZs/view?usp=sharing">cv</a></li>
 
